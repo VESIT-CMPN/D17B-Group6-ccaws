@@ -1,0 +1,1 @@
+dd if=/dev/zero of=/dev/null bs=500M count=1000000
